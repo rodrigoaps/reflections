@@ -13,3 +13,5 @@ You can continue improving your code while on the forest.
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would use Google Drive or a similar service to share the code files. It wouldn't require as much knowlodge of the Git platform, but using GitHub would probalbly be better once everyone involved is up and running.
 
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Making changes directly on the Master branch i simpler, but making them in separate branches allows for pull requests, wich may be desirable when working in group projects.
