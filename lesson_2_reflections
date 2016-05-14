@@ -1,0 +1,5 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+When you initiate a repository, a hidden git directory is created, but no commit is made. You need to do it to start using Git Bash do the version control of your files.
+
+2.How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is differnt because it only contains the files you've explicitly added to it. It's valuable because it allows you to chose what you want to be part of each of your commits.
